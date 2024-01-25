@@ -14,4 +14,3 @@ The notebook is written in a way to encourage the reader to download a copy and 
 - Computing portfolio vs. benchmark returns
 - Performance metrics: Sharpe Ratio, Sortino Ratio, maximum drawdown
 - Defining a custom hyperparameter optimisation function
-- 
