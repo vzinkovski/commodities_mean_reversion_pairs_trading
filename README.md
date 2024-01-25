@@ -5,7 +5,7 @@ Most trading strategies can be classified as either momentum or mean reversion s
 The notebook is written in a way to encourage the reader to download a copy and experiment themselves across various date ranges, commodities pairs and hyperparameter combinations in order to compare the relative performance of different strategies.
 
 **Key themes covered:**
-- Computing the spread via the hedge ratio
+- Computing a spread via the hedge ratio
 - Testing for stationarity
 - Bollinger Bands
 - Defining trading rules and generating a signal
