@@ -10,7 +10,7 @@ The notebook is written in a way to encourage the reader to download a copy and 
 - Bollinger Bands
 - Defining trading rules and generating a signal
 - Equity curves
-- Constructing a basic portfolio of commodities pairs
+- Constructing a basic portfolio of agricultural commodities pairs
 - Computing portfolio vs. benchmark returns
 - Performance metrics: Sharpe Ratio, Sortino Ratio, maximum drawdown
 - Defining a custom hyperparameter optimisation function
