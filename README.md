@@ -5,7 +5,7 @@ Most trading strategies can be classified as either momentum or mean reversion s
 Additionally, the notebook is written in a way to encourage the reader to download a copy and experiment themselves across various date ranges, commodities pairs, benchmark indexes and hyperparameter combinations in order to compare the relative performance of different strategies. The only required edits are in the code cells directly following the section headers labeled USER INPUT. Please ensure that your environment matches the dependencies listed at the end of the notebook.
 
 **Key themes covered:**
-- Computing a spread via the hedge ratio
+- Computing a mean reverting spread via the hedge ratio
 - Testing for stationarity
 - Bollinger Bands
 - Defining trading rules and generating a signal
@@ -13,4 +13,4 @@ Additionally, the notebook is written in a way to encourage the reader to downlo
 - Constructing a basic portfolio of agricultural commodities pairs
 - Computing portfolio vs. benchmark returns
 - Performance metrics: Sharpe Ratio, Sortino Ratio, maximum drawdown
-- Defining a custom hyperparameter optimisation function
+- Defining a custom walk-forward hyperparameter optimisation function
