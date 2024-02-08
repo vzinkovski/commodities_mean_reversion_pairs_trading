@@ -15,4 +15,6 @@ Additionally, the notebook is written in a way to encourage the reader to downlo
 - Performance metrics: Sharpe Ratio, Sortino Ratio, maximum drawdown
 - Defining a custom walk-forward hyperparameter optimisation function
 
-*You can find the project at the top of this page or by following this [link](https://github.com/vzinkovski/commodities_mean_reversion_pairs_trading/blob/main/mean_reversion_pairs_trading.ipynb)*
+---
+
+Please follow this [link](https://nbviewer.org/github/vzinkovski/commodities_mean_reversion_pairs_trading/blob/main/mean_reversion_pairs_trading.ipynb) to view the full project.
