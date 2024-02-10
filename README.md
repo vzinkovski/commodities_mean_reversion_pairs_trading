@@ -1,3 +1,7 @@
+Please follow this [link](https://nbviewer.org/github/vzinkovski/commodities_mean_reversion_pairs_trading/blob/main/mean_reversion_pairs_trading.ipynb) to view the full project.
+
+---
+
 **Commodities Mean Reversion Pairs Trading Strategy**
 
 Most trading strategies can be classified as either momentum or mean reversion strategies. Commodities are often fungible, which means they can be used as substitutes for each other given the right economics. For such fungible commodities pairs, this implies both a positive correlation, as well as cointegration. Cointegration simply means that the individual price series for the two commodities cannot deviate indefinitely and will tend to revert to some mean value. This project explores a mean reverting pairs trading strategy for a select portfolio of cointegrated agricultural commodities pairs and evaluates its performance against a benchmark S&P GSCI.
@@ -14,7 +18,3 @@ Additionally, the notebook is written in a way to encourage the reader to downlo
 - Computing portfolio vs. benchmark returns
 - Performance metrics: Sharpe Ratio, Sortino Ratio, maximum drawdown
 - Defining a custom walk-forward hyperparameter optimisation function
-
----
-
-**Please follow this [link](https://nbviewer.org/github/vzinkovski/commodities_mean_reversion_pairs_trading/blob/main/mean_reversion_pairs_trading.ipynb) to view the full project.**
